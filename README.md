@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm SegovChik!
 
-<!--
-**SegovChik/SegovChik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+- 💻 In IT since **2018** with **2 years of system administration** and **5 years of production DevOps experience**.
+- 🚀 Passionate about building and maintaining highly scalable and reliable infrastructure.
 
-Here are some ideas to get you started:
+### 🛠️ Main Tools and Technologies
+- **Kubernetes**: 
+  - Certified Kubernetes Administrator (CKA) and Certified Kubernetes Application Developer (CKAD).
+  - Expertise in bare-metal Kubernetes environments.
+  - Experience building and operating production-ready clusters with **GPUs** for **LLM inference** and **video analysis software**.
+- **HashiCorp Tools**:
+  - Proficient in **Terraform** and **Vault** (Vault Certified).
+- **Cloud Platforms**:
+  - AWS, GCP, Azure, DigitalOcean, Hetzner Cloud.
+- **Dedicated Server Providers**:
+  - Hetzner, OVH, Latitude.sh.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Leadership and Achievements
+- Skilled in leading and managing teams, with **successful experience managing a 5-person DevOps team**.
